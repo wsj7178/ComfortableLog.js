@@ -9,7 +9,7 @@ const routes: Array<RouteConfig> = [
     path: '/',
     name: 'WaitForConnection',
     component: WaitForConnection
-  },
+  }
 ]
 
 const router = new VueRouter({
